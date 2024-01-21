@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/friendly-speech-api.props" />
+</Project>
