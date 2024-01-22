@@ -460,24 +460,26 @@
     ]
   },
   "packageFolders": {
-    "/home/rick/.nuget/packages/": {}
+    "C:\\Users\\Rafa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rick/github/friendly-speech-api/friendly-speech-api.csproj",
+      "projectUniqueName": "C:\\Users\\Rafa\\source\\repos\\Rafael-Andreola\\friendly-speech-api\\friendly-speech-api.csproj",
       "projectName": "friendly-speech-api",
-      "projectPath": "/home/rick/github/friendly-speech-api/friendly-speech-api.csproj",
-      "packagesPath": "/home/rick/.nuget/packages/",
-      "outputPath": "/home/rick/github/friendly-speech-api/obj/",
+      "projectPath": "C:\\Users\\Rafa\\source\\repos\\Rafael-Andreola\\friendly-speech-api\\friendly-speech-api.csproj",
+      "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafa\\source\\repos\\Rafael-Andreola\\friendly-speech-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rick/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -516,12 +518,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.0, 8.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -530,7 +526,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
