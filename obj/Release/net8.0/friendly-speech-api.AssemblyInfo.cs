@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("friendly-speech-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9db1c6d308492e76bb7d1aedc7305491f3e40b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("friendly-speech-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("friendly-speech-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
